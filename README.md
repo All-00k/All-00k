@@ -1,23 +1,23 @@
-
-
 <h1 align="center">Hi 👋, I'm Alok</h1>
 <h3 align="center">Not too passionate about code and stuff, just here cause I like to solve errors.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=all-00k&label=Profile%20views&color=0e75b6&style=flat" alt="all-00k" /> </p>
 
-- 🔭 I’m currently working on -->**"NULL"**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=all-00k" alt="all-00k" /></a> </p>
 
-- 🌱 I’m currently learning--> **JAVA | R (foundation level)**
+- 🔭 I’m currently working on **-->"NULL"**
 
-- 👯 I’m looking to collaborate on--> **"NOTHING"**
+- 🌱 I’m currently learning **-->JAVA | R (foundation level)**
 
-- 🤝 I’m looking for help with--> **JAVA | R | APP DEV**
+- 👯 I’m looking to collaborate on **-->"NOTHING"**
 
-- 💬 Ask me about -->**PYTHON,C**
+- 🤝 I’m looking for help with **-->JAVA | R | APP DEV**
 
-- 📫 How to reach me -->**ping me on my Discord "is_alok"**
+- 💬 Ask me about **-->PYTHON,C**
 
-- ⚡ Fun fact--> **I think I am about to feel some consequences....**
+- 📫 How to reach me **-->ping me on my Discord "is_alok"**
+
+- ⚡ Fun fact **-->I think I am about to feel some consequences....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=all-00k&show_icons=true&locale=en&layout=compact" alt="all-00k" /></p>
 
