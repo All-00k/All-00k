@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=all-00k&label=Profile%20views&color=0e75b6&style=flat" alt="all-00k" /> </p>
 
-- 🔭 I’m currently working on **"NULL"**
+- 🔭 I’m currently working on -->**"NULL"**
 
-- 🌱 I’m currently learning **JAVA | R (foundation level)**
+- 🌱 I’m currently learning--> **JAVA | R (foundation level)**
 
-- 👯 I’m looking to collaborate on **"NOTHING"**
+- 👯 I’m looking to collaborate on--> **"NOTHING"**
 
-- 🤝 I’m looking for help with **JAVA | R | APP DEV**
+- 🤝 I’m looking for help with--> **JAVA | R | APP DEV**
 
-- 💬 Ask me about **PYTHON,C**
+- 💬 Ask me about -->**PYTHON,C**
 
-- 📫 How to reach me **ping me on my Discord "is_alok"**
+- 📫 How to reach me -->**ping me on my Discord "is_alok"**
 
-- ⚡ Fun fact **I think I am about to feel some consequences....**
+- ⚡ Fun fact--> **I think I am about to feel some consequences....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
