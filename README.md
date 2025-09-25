@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **-->"2-D Platformer "**
 
-- 🌱 I’m currently learning **-->JAVA | R (foundation level)**
+- 🌱 I’m currently learning **-->JAVA | R (foundation level)  | Game Dev**
 
 - 👯 I’m looking to collaborate on **-->"NOTHING"**
 
