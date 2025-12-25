@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fuxwing.com%2Fandroid-studio-icon%2F&ved=0CBUQjRxqFwoTCKCZ1-Cb2ZEDFQAAAAAdAAAAABAe&opi=89978449" alt="androidstudio" width="40" height="40"/> </a></p>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" alt="androidstudio" width="40" height="40"/> </a></p>
 
 
 
